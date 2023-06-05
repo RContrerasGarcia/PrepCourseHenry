@@ -1,2 +1,1 @@
-# PrepCourseHenry
-Repositorio de prueba de m2
+Esto es una prueba de como se trabaja con Git Hub
